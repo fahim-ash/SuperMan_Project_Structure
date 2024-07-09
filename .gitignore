@@ -1,8 +1,0 @@
-node_modules/
-package-lock.json
-package.json
-.prettierignore
-.prettierrc
-SuperMan/
-test.js
-test.py
